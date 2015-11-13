@@ -1,6 +1,4 @@
 
-Copyright 2015-2016, VPN Reviews https://vpnservice.reviews
-    
     Preamble: This Agreement, signed on Nov 12, 2015 (hereinafter: Effective Date) governs the relationship between VPN Reviews, a Business Entity, (hereinafter: Licensee) and VPN Reviews, a duly registered company in whose principal place of business is 949 Yorkie Lane Hazlehurst, GA 31539 (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using VPN Reviews Algorithm (hereinafter: The Software) created and owned by Licensor, as detailed herein
 
     
